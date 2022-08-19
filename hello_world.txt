@@ -1,1 +1,1 @@
-Hello World! This is a git test! Test2!
+Hello World! This is a git test! Test2! Test3 with VS Code as commit editor!
